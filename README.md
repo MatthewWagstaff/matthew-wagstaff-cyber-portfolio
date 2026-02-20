@@ -55,4 +55,5 @@ I specialise in:
 
 I’m actively seeking **Cyber Security Analyst / SOC Analyst** roles.
 
--[Hands‑On Labs Completed] (Hands‑On Labs Completed)
+Hands‑On Labs
+
