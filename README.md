@@ -54,5 +54,5 @@ I specialise in:
 - Cloud identity security  
 
 I’m actively seeking **Cyber Security Analyst / SOC Analyst** roles.
--[Hands‑On Labs]
+Live labs/README.md
 
