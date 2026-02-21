@@ -54,5 +54,5 @@ I specialise in:
 - Cloud identity security  
 
 I’m actively seeking **Cyber Security Analyst / SOC Analyst** roles.
-
+Please also find list of completed live labs for the security and network + (currently awaiting to do exams)
 https://github.com/MatthewWagstaff/matthew-wagstaff-cyber-portfolio/blob/514c9231eaf1a77867267fda67d0a12f30244774/Live%20labs/README.md
