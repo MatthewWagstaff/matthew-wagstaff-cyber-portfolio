@@ -1,101 +1,116 @@
-# 🛡️ Matthew Wagstaff — Cyber Security Portfolio  
+🛡️ Matthew Wagstaff — Cyber Security Portfolio
 
-Aspiring SOC Analyst with a focus on security operations, log analysis, and incident investigation.  
+Aspiring Cyber Security Analyst | SOC & Blue Team | SIEM | Threat Hunting | Incident Response
+Certifications:
 
-CompTIA Security+ (Completed) | CompTIA Network+ (Scheduled) | Former HM Armed Forces  
+Military Veteran
 
----
+Welcome to my cyber security portfolio! This repository showcases hands-on projects, labs, and security exercises, demonstrating my skills in:
 
-## 👋 Welcome  
+SIEM alert investigation (Splunk)
 
-This portfolio showcases the hands-on work I’ve been doing to build practical SOC analyst skills through self-built labs and structured security exercises.
+Incident response
 
-The focus of this work is on developing real-world capability in:
+Threat hunting
 
-- Alert investigation and triage  
-- Log analysis (Windows Event Logs, network traffic)  
-- Incident response processes  
-- Basic threat detection and analysis  
-- Vulnerability assessment and validation  
-- System hardening principles  
+Vulnerability assessment
 
----
+System hardening
 
-## 📁 Portfolio Index  
+PowerShell automation
 
-### 🔍 SOC & Investigation Work  
-- [SIEM Alert Investigation](LINK_TO_PROJECT_1)  
-- [Incident Response Simulation](LINK_TO_PROJECT_2)  
-- [Threat Hunting Exercise](LINK_TO_PROJECT_3)  
+MITRE ATT&CK mapping
 
-### 🛠️ Vulnerability & System Security  
-- [Vulnerability Assessment](LINK_TO_PROJECT_4)  
-- [System Hardening](LINK_TO_PROJECT_5)  
+Azure AD security
 
-### ⚙️ Practical Tools & Analysis  
-- [PowerShell Automation](LINK_TO_PROJECT_6)  
-- [Azure AD Security](LINK_TO_PROJECT_7)  
+📁 Portfolio Index
+🔍 SOC & Blue Team Projects
 
-### 📊 Supporting Diagrams  
-- MITRE ATT&CK mapping  
-- Incident response workflow  
-- Alert investigation process  
-- Threat hunting logic  
-### 🔍 SOC & Investigation Work  
-- SIEM-style Alert Investigation  
-- Incident Response Simulation  
-- Threat Hunting Exercises  
+Project 1 — SIEM Alert Investigation
+ — Analyze and respond to simulated security alerts using SIEM tools.
 
-### 🛠️ Vulnerability & System Security  
-- Vulnerability Assessment (Nessus + Nmap validation)  
-- System Hardening (Windows-focused)  
 
-### ⚙️ Practical Tools & Analysis  
-- PowerShell basics for investigation and automation  
-- Network traffic analysis (Wireshark)  
+Project 2 — Incident Response Simulation
+ — Full incident investigation from detection to remediation.
 
-### 📊 Supporting Diagrams  
-- MITRE ATT&CK mapping  
-- Incident response workflow  
-- Alert investigation process  
-- Threat hunting logic  
 
----
+Project 3 — Threat Hunting Exercise
+ — Hunt for anomalies and malicious activity using logs and SIEM data.
 
-## 🧪 Lab Environment  
 
-To support my transition into cyber security, I built a virtual lab environment to simulate common SOC scenarios.
+🛠️ Security Engineering & Hardening
 
-This includes:
-- Windows systems generating security logs  
-- Simulated authentication attacks (e.g. brute force)  
-- Network traffic capture and analysis  
-- Vulnerability scanning and validation  
+Project 4 — Vulnerability Assessment
+ — Identify and prioritize system vulnerabilities.
 
-The aim is to replicate how alerts are generated, investigated, and documented in a SOC environment.
+Project 5 — System Hardening
+ — Implement security configurations and best practices.
 
----
+⚙️ Automation & Cloud Security
 
-## 📘 Live Labs Completed  
+Project 6 — PowerShell Automation Script
+ — Automate repetitive security tasks.
 
-A full list of structured labs completed as part of my Security+ and Network+ training can be found here:  
 
-👉 https://github.com/MatthewWagstaff/matthew-wagstaff-cyber-portfolio/blob/514c9231eaf1a77867267fda67d0a12f30244774/Live%20labs/README.md  
+Project 7 — Azure AD Security
+ — Secure and monitor Azure AD identities and access.
 
----
 
-## 🧠 Skills Matrix  
+📊 Diagrams & Mapping
 
-Breakdown of the skills I’ve developed through hands-on work:  
+MITRE ATT&CK Mapping
 
-👉 https://github.com/MatthewWagstaff/matthew-wagstaff-cyber-portfolio/blob/dcce37709ee7465c5a7ccdffe012875c646bd28b/Skillsmatrix/README.md  
+Attack Flow Diagram
 
----
+SIEM Alert Flow
 
-## 👨‍💻 About Me  
+Incident Response Timeline
 
-I’m a former HM Armed Forces engineer transitioning into cyber security, bringing a disciplined and methodical approach developed in secure and high-responsibility environments.
+Threat Hunting Logic
 
-I’ve been focusing on building practical SOC capability through hands-on labs, including investigating authentication anomalies, analysing logs, and working through structured triage and escalation scenarios.
+🧪 Live Labs Completed
 
-I am now seeking a 1st Line SOC Analyst role where I can apply these skills in a live environment and continue developing under experienced analysts.
+Hands-on labs in network security, endpoint protection, cloud security, threat detection, and custom labs I created myself.
+🚀 View Live Labs →
+
+🧠 Skills Matrix
+
+Demonstrates proficiency in:
+
+SIEM tools (Splunk)
+
+Incident response & log analysis
+
+Threat hunting & MITRE ATT&CK mapping
+
+System hardening & vulnerability assessment
+
+PowerShell automation & Azure AD security
+
+📊 View Skills Matrix →
+
+👨‍💻 About Me
+
+Former HM Armed Forces engineer transitioning into cyber security.
+
+Disciplined, analytical, and passionate about blue-team defence.
+
+Actively seeking Cyber Security Analyst / SOC Analyst roles.
+
+⚡ Certifications & Training
+Certification	Status
+Security+	✅ Completed
+A+	✅ Completed
+Network+	⏳ Exam Pending
+CEH (Certified Ethical Hacker)	⚡ In Progress
+🛠️ Tools & Technologies
+
+Skills Progress Bar:
+
+Splunk ▇▇▇▇▇ 100%
+PowerShell ▇▇▇▇▇ 100%
+Azure AD ▇▇▇▇ 80%
+MITRE ATT&CK ▇▇▇ 60%
+Networking ▇▇▇▇ 70%
+
+Other Tools: Windows, Linux, Vulnerability Assessment tools, SIEM, Cloud Security
