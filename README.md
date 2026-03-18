@@ -1,6 +1,6 @@
 # 🛡️ Matthew Wagstaff — Cyber Security Portfolio
 **Aspiring Cyber Security Analyst | SOC | SIEM | Incident Response | Threat Hunting**  
-**Security+ (Studying) | Military Veteran**
+**Security+ | Military Veteran**
 
 Welcome to my cyber security portfolio.  
 This repository showcases hands‑on projects demonstrating my skills in:
