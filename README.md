@@ -132,17 +132,28 @@ Actively seeking Cyber Security Analyst / SOC Analyst roles.
 
 ⚡ Certifications & Training
 Certification	Status
+
 Security+	✅ Completed
+
 A+	✅ Completed
+
 Network+	⏳ Exam Pending
+
 CEH (Certified Ethical Hacker)	⚡ In Progress
 
 🛠️ Tools & Technologies
+
 Skills Progress Bar:
+
 Splunk ▇▇▇▇▇ 100%
+
 PowerShell ▇▇▇▇▇ 100%
+
 Azure AD ▇▇▇▇ 80%
+
 MITRE ATT&CK ▇▇▇ 60%
+
 Networking ▇▇▇▇ 70%
+
 Other Tools: Windows, Linux, Vulnerability Assessment tools, SIEM, Cloud Security
 
