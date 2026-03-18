@@ -1,6 +1,4 @@
 # 🛡️ Matthew Wagstaff — Cyber Security Portfolio
-![Security+](https://img.shields.io/badge/Security%2B-Completed-brightgreen)  
-![A+](https://img.shields.io/badge/A%2B-Completed-brightgreen)
 
 Aspiring Cyber Security Analyst | SOC & Blue Team | SIEM | Threat Hunting | Incident Response  
 **Certifications:**  
