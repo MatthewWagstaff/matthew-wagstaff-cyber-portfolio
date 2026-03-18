@@ -1,6 +1,8 @@
 # 🛡️ Matthew Wagstaff — Cyber Security Portfolio
-**Aspiring Cyber Security Analyst | SOC | SIEM | Incident Response | Threat Hunting**  
-**Security+ | Military Veteran**
+**Former HM Armed Forces | Former Advanced Data Comms Specialist (copper fibre and Datacomms) | Aspiring Cyber Security Analyst
+Focus Areas: SOC Operations, SIEM Analysis, Threat Hunting, Incident Response
+Certifications: Security+, A+, Newtork+, (awaiting exam), CEH certified Ethical Hacker (Ongoing)
+Background: Military Veteran with strong engineering & analytical experience**  
 
 Welcome to my cyber security portfolio.  
 This repository showcases hands‑on projects demonstrating my skills in:
