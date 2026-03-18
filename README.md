@@ -1,5 +1,6 @@
 # 🛡️ Matthew Wagstaff — Cyber Security Portfolio
 
+<p align="center">
 <img src="assets/Comptia-Securityplus.png" width="100"> <img src="assets/Comptia-Aplus.png" width="100">
 
 Aspiring Cyber Security Analyst | SOC & Blue Team | SIEM | Threat Hunting | Incident Response  
