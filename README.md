@@ -113,7 +113,3 @@ Demonstrates proficiency in:
 **Other Tools:** Windows, Linux, Vulnerability Assessment tools, SIEM, Cloud Security
 
 ---
-
-
-1. Create `/assets/images/` in your repo and upload images with these filenames:
-
