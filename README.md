@@ -63,11 +63,11 @@ Secure and monitor Azure AD identities and access.
 
 ### 📊 Diagrams & Mapping
 
-[MITRE ATT&CK Mapping](Diagrams/MITRE%20ATT&CK%20Mapping.md)  
-[Attack Flow Diagram](Diagrams/Attack%20Flow%20Diagram.md)  
-[SIEM Alert Flow](Diagrams/SIEM%20Alert%20Flow.md)  
-[Incident Response Timeline](Diagrams/Incident%20Response%20Timeline.md)  
-[Threat Hunting Logic](Diagrams/Threat%20Hunting%20Logic.md)
+[MITRE ATT&CK Mapping](Diagrams/MITRE-ATTACK-Mapping.md)  
+[Attack Flow Diagram](Diagrams/Attack-Flow-Diagram.md)  
+[SIEM Alert Flow](Diagrams/SIEM-Alert-Flow.md)  
+[Incident Response Timeline](Diagrams/Incident-Response-Timeline.md)  
+[Threat Hunting Logic](Diagrams/Threat-Hunting-Logic.md)
 
 ---
 
