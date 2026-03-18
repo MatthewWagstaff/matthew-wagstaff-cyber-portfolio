@@ -1,11 +1,4 @@
-README.md‎
-+98
--50
-Lines changed: 98 additions & 50 deletions
 
-
-Original file line number	Diff line number	Diff line change
-@@ -1,68 +1,116 @@
 # 🛡️ Matthew Wagstaff — Cyber Security Portfolio
 **Former HM Armed Forces | Former Advanced Data Comms Specialist (copper fibre and Datacomms) | Aspiring Cyber Security Analyst
 Focus Areas: SOC Operations, SIEM Analysis, Threat Hunting, Incident Response
