@@ -88,25 +88,34 @@ Project 3 — Threat Hunting Exercise
  — Hunt for anomalies and malicious activity using logs and SIEM data.
 
 -https://github.com/MatthewWagstaff/matthew-wagstaff-cyber-portfolio/blob/dcce37709ee7465c5a7ccdffe012875c646bd28b/Skillsmatrix/README.md
+
 🛠️ Security Engineering & Hardening
+
 Project 4 — Vulnerability Assessment
  — Identify and prioritize system vulnerabilities.
+ 
 Project 5 — System Hardening
  — Implement security configurations and best practices.
+ 
 ⚙️ Automation & Cloud Security
+
 Project 6 — PowerShell Automation Script
  — Automate repetitive security tasks.
+ 
 Project 7 — Azure AD Security
  — Secure and monitor Azure AD identities and access.
+ 
 📊 Diagrams & Mapping
 MITRE ATT&CK Mapping
 Attack Flow Diagram
 SIEM Alert Flow
 Incident Response Timeline
 Threat Hunting Logic
+
 🧪 Live Labs Completed
 Hands-on labs in network security, endpoint protection, cloud security, threat detection, and custom labs I created myself.
 🚀 View Live Labs →
+
 🧠 Skills Matrix
 Demonstrates proficiency in:
 SIEM tools (Splunk)
@@ -115,16 +124,19 @@ Threat hunting & MITRE ATT&CK mapping
 System hardening & vulnerability assessment
 PowerShell automation & Azure AD security
 📊 View Skills Matrix →
+
 👨‍💻 About Me
 Former HM Armed Forces engineer transitioning into cyber security.
 Disciplined, analytical, and passionate about blue-team defence.
 Actively seeking Cyber Security Analyst / SOC Analyst roles.
+
 ⚡ Certifications & Training
 Certification	Status
 Security+	✅ Completed
 A+	✅ Completed
 Network+	⏳ Exam Pending
 CEH (Certified Ethical Hacker)	⚡ In Progress
+
 🛠️ Tools & Technologies
 Skills Progress Bar:
 Splunk ▇▇▇▇▇ 100%
