@@ -116,3 +116,6 @@ Structured escalation thinking
 - [MITRE Mapping](../Diagrams/MITRE%20Mapping.md)
 - [Attack Flow](../Diagrams/Attack%20Flow.md)
 - [SIEM Flow](../Diagrams/SIEM%20Flow.md)
+- [Brute Force Detection Flow](../Diagrams/Brute%20Force%20Detection%20Flow.md)
+
+
