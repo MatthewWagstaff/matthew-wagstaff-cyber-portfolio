@@ -2,7 +2,7 @@
 
 ## Objective
 
-Investigate a suspicious authentication alert within Splunk to determine whether the activity is malicious, assess potential impact, and recommend appropriate response actions.
+Investigate suspicious authentication activity within Splunk to determine whether the behaviour is malicious, assess potential impact, and recommend appropriate response actions.
 
 ---
 
@@ -31,75 +31,32 @@ Initial indicators showed:
 - Followed by a successful login  
 - Activity occurring within a short timeframe  
 
-This behaviour suggested a potential brute-force attempt.
+This pattern suggested a potential brute-force attack against a user account.
 
 ---
 
 ## Investigation
 
-I started by reviewing the alert details within Splunk to understand what triggered it.
+I began by reviewing the alert details within Splunk to understand what triggered the detection and confirm it was not a false positive.
 
 Using SPL queries, I filtered authentication logs by:
 - Target user account  
 - Source IP address  
-- Time range of the alert  
+- Relevant timeframe  
 
-This allowed me to identify a pattern of repeated failed login attempts followed by a successful authentication.
+This allowed me to identify a clear pattern of repeated failed login attempts followed by a successful authentication.
 
-Further analysis showed:
-- The login attempts originated from an unfamiliar IP address  
-- The successful login occurred immediately after multiple failures  
-- The login took place outside of expected working hours  
+Further analysis identified:
+- Login attempts originating from an unfamiliar external IP address  
+- A successful login immediately after multiple failures  
+- Activity occurring outside of expected working hours  
 
-I then correlated events to build a clear timeline of activity and confirm whether the behaviour aligned with normal user patterns.
+I then correlated related events to build a timeline of activity and assess whether the behaviour aligned with normal user patterns.
+
+---
 
 ## Example SPL Query
 
 ```spl
 index=auth_logs user="target_user"
 | stats count by src_ip, action
-
-
----
-
-## MITRE ATT&CK Mapping
-
-- T1110 — Brute Force  
-- T1078 — Valid Accounts  
-
----
-
-## Findings
-
-- Behaviour consistent with a brute-force attack  
-- Successful login suggests potential account compromise  
-- Source IP considered suspicious based on activity pattern  
-- Activity did not match expected user behaviour  
-
----
-
-## Response
-
-- Recommended immediate password reset and account review  
-- Suggested monitoring or blocking of the source IP  
-- Advised checking for further suspicious activity linked to the account  
-- Escalated findings for further investigation  
-
----
-
-## Outcome
-
-The activity was assessed as likely malicious, demonstrating brute-force behaviour and potential unauthorised access.
-
-This investigation highlights the importance of analysing authentication patterns, correlating events, and applying structured investigation techniques within a SIEM environment.
-
----
-
-## Key Skills Demonstrated
-
-- SIEM alert triage and investigation  
-- SPL query usage for log analysis  
-- Event correlation and timeline building  
-- Threat identification and risk assessment  
-- MITRE ATT&CK mapping  
-- Clear documentation for escalation  
