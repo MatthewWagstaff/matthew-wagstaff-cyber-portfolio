@@ -124,28 +124,18 @@ Demonstrates applied capability across:
 
 ---
 
-## 👨‍💻 About Me
-
-- Former HM Armed Forces engineer with experience in secure and high-responsibility environments  
-- Disciplined, analytical, and methodical approach to problem-solving  
-- Focused on developing practical SOC capability through hands-on lab work and investigation scenarios  
-- Actively seeking a 1st Line SOC Analyst role  
-
----
-
 ### 🛠️ Tools & Technologies
 
-Windows | Linux | Wireshark | Nessus | Nmap | PowerShell | Splunk (Learning) | Azure AD  
+Operating Systems: Windows, Linux  
+Security Tools: Wireshark, Nessus, Nmap  
+Scripting: PowerShell  
+SIEM: Splunk (in progress)  
+Cloud: Azure AD
 
 ---
 
 ## 🧠 Approach
 
-My focus is on understanding:
+My focus is on understanding how attacks occur, how they are detected, how they are investigated, and how they are prevented.
 
-- How attacks occur  
-- How they are detected  
-- How they are investigated  
-- How they are prevented  
-
-Using frameworks such as MITRE ATT&CK to support structured analysis and improve investigation quality.
+I use frameworks such as MITRE ATT&CK to support structured analysis, map attacker behaviour, and improve investigation quality.
