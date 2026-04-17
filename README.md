@@ -11,9 +11,9 @@ SOC-focused cyber security portfolio demonstrating practical investigation capab
 
 ## 👨‍💻 About Me
 
-I’m building towards getting into cyber security with a strong background in networking and hands-on experience built through my own SOC lab environment.
+I’m building into cyber security with a strong background in networking and hands-on experience developed through my own SOC lab environment.
 
-I’ve been developing practical skills in alert triage, log analysis, incident investigation, and vulnerability assessment, focusing on understanding how attacks happen and how to respond to them properly.
+I’ve been developing practical skills in alert triage, log analysis, incident investigation, and vulnerability assessment, with a focus on understanding how attacks occur and how to respond in a structured and effective way.
 
 My long-term goal is to move into penetration testing, but I’m currently focused on gaining real-world experience in a SOC or Cyber Security Analyst role.
 
@@ -30,18 +30,20 @@ My long-term goal is to move into penetration testing, but I’m currently focus
 
 ## 📊 SIEM & SOC Tooling (Splunk)
 
-Practical SIEM capability using Splunk Enterprise 8.3 through structured training, labs, and workshops.
+Practical SIEM capability developed using Splunk Enterprise 8.3 through structured training, labs, and workshops.
 
 **Core focus areas:**
+
 - Alert triage and investigation workflows  
 - SPL2 search queries and event analysis  
 - Dashboard creation and visualisation  
 - Detection engineering using Security Essentials and ESCU  
-- Threat hunting techniques aligned to MITRE ATT&CK  
-- Introduction to Enterprise Security (ES) and SOC operations  
-- Basic SOAR concepts and playbook awareness  
+- Threat hunting aligned to MITRE ATT&CK  
+- Enterprise Security (ES) fundamentals  
+- SOAR concepts and playbook awareness  
 
 **Additional exposure:**
+
 - Observability and monitoring (infrastructure, application, cloud)  
 - Data modelling, field extraction, and knowledge objects  
 - Reporting, alerting, and data enrichment  
@@ -55,9 +57,9 @@ Practical SIEM capability using Splunk Enterprise 8.3 through structured trainin
 - Military veteran with experience operating in structured, security-focused environments  
 - Strong decision-making under pressure and ability to follow defined processes and escalation paths  
 - Clear communication in time-sensitive situations  
-- High attention to detail when working with security-critical systems  
+- High attention to detail in security-critical environments  
 
-- Experience running my own business, managing workload, priorities, and client expectations  
+- Experience running own business, managing workload, priorities, and client expectations  
 - Strong accountability and ownership of outcomes  
 - Ability to manage multiple tasks while maintaining quality and consistency  
 
@@ -65,8 +67,9 @@ Practical SIEM capability using Splunk Enterprise 8.3 through structured trainin
 
 ## 👋 Overview
 
+This portfolio shows the work I’ve been doing to build practical SOC skills, including alert triage, incident investigation, vulnerability assessment, and threat analysis.
+
 I approach investigations using structured triage, correlation, and escalation workflows aligned to real SOC environments.
-This portfolio shows the work I’ve been doing to build practical SOC skills, including alert triage, incident investigation, vulnerability assessment, and threat analysis. It reflects how I approach identifying, investigating, and responding to security events in a structured and practical way.
 
 ---
 
@@ -75,7 +78,7 @@ This portfolio shows the work I’ve been doing to build practical SOC skills, i
 ### 🔍 SOC & Blue Team Projects
 
 **Project 1 — [SIEM Alert Investigation](Projects/Project%201%20-%20SIEM%20Alert%20Investigation.md)**  
-Investigate and respond to simulated security alerts using SIEM workflows, including log analysis and alert triage.
+Investigate and respond to simulated security alerts using SIEM workflows.
 
 **Project 2 — [Incident Response Simulation](Projects/Project%202%20-%20Incident%20Response%20Simulation.md)**  
 Structured investigation from detection through to containment and remediation.
@@ -104,24 +107,24 @@ Automate investigation and security-related tasks.
 Monitor and secure identity and access in a cloud environment.
 
 **Project 8 — [Splunk Alert Investigation](Projects/Project%208%20-%20Splunk%20Alert%20Investigation.md)**  
-Investigate and analyse authentication-based alerts using Splunk, applying SIEM workflows and structured investigation.
+Investigate authentication-based alerts using Splunk and structured SOC workflows.
 
 **Project 9 — [Brute Force Detection Engineering](Projects/Project%209%20-%20Brute%20Force%20Detection%20Engineering.md)**  
-Build and test a brute-force detection use case in Splunk using authentication patterns, correlation logic, and structured investigation.
+Develop and test a brute-force detection use case using correlation logic and investigation techniques.
 
 ---
 
 ## 📊 Diagrams & Mapping
 
-[MITRE ATT&CK Mapping](Diagrams/MITRE%20Mapping.md)  
-[Attack Flow Diagram](Diagrams/Attack%20Flow.md)  
-[SIEM Alert Flow](Diagrams/SIEM%20Flow.md)  
-[Incident Response Timeline](Diagrams/IR%20Timeline.md)  
-[Threat Hunting Logic](Diagrams/Threat%20Hunting%20Logic.md)  
-[Vulnerability Flow](Diagrams/Vulnerability%20Flow.md)  
-[System Hardening Flow](Diagrams/System%20Hardening%20Flow.md)  
-[Automation Flow](Diagrams/Automation%20Flow.md)  
-[Azure Hardening](Diagrams/Azure%20Hardening.md)  
+- [MITRE ATT&CK Mapping](Diagrams/MITRE%20Mapping.md)  
+- [Attack Flow Diagram](Diagrams/Attack%20Flow.md)  
+- [SIEM Alert Flow](Diagrams/SIEM%20Flow.md)  
+- [Incident Response Timeline](Diagrams/IR%20Timeline.md)  
+- [Threat Hunting Logic](Diagrams/Threat%20Hunting%20Logic.md)  
+- [Vulnerability Flow](Diagrams/Vulnerability%20Flow.md)  
+- [System Hardening Flow](Diagrams/System%20Hardening%20Flow.md)  
+- [Automation Flow](Diagrams/Automation%20Flow.md)  
+- [Azure Hardening](Diagrams/Azure%20Hardening.md)  
 
 ---
 
@@ -131,17 +134,17 @@ I built a virtual lab environment to simulate real-world SOC scenarios and workf
 
 This is used to practise:
 
-- Investigating authentication anomalies  
-- Detecting brute force attempts  
-- Performing vulnerability scanning and validation  
-- Analysing network traffic  
-- Documenting incidents for escalation  
+- Authentication anomaly investigation  
+- Brute force detection  
+- Vulnerability scanning and validation  
+- Network traffic analysis  
+- Incident documentation and escalation  
 
 ---
 
 ## 🧪 Live Labs
 
-Hands-on labs covering network security, endpoint protection, cloud security, and threat detection, alongside custom scenarios I’ve built.
+Hands-on labs covering network security, endpoint protection, cloud security, and threat detection.
 
 [🚀 View Live Labs →](Live%20labs/README.md)
 
@@ -151,7 +154,7 @@ Hands-on labs covering network security, endpoint protection, cloud security, an
 
 Demonstrates applied capability across:
 
-- SIEM-based investigation (Splunk exposure)  
+- SIEM investigation (Splunk exposure)  
 - Incident response and log analysis  
 - Threat hunting aligned to MITRE ATT&CK  
 - Vulnerability assessment and system hardening  
@@ -163,11 +166,11 @@ Demonstrates applied capability across:
 
 ## 🛠️ Tools & Technologies
 
-Operating Systems: Windows, Linux  
-Security Tools: Wireshark, Nessus, Nmap  
-Scripting: PowerShell  
-SIEM: Splunk (in progress)  
-Cloud: Azure AD  
+**Operating Systems:** Windows, Linux  
+**Security Tools:** Wireshark, Nessus, Nmap  
+**Scripting:** PowerShell  
+**SIEM:** Splunk  
+**Cloud:** Azure AD  
 
 ---
 
