@@ -1,7 +1,13 @@
 # 🛡️ Matthew Wagstaff — Cyber Security Portfolio
 
 <p align="center">
-<img src="assets/Comptia-Securityplus.png" width="100"> <img src="assets/Comptia-Aplus.png" width="100">
+  <img src="assets/Comptia-Securityplus.png" width="100" alt="Security+">
+  <img src="assets/Comptia-Aplus.png" width="100" alt="A+">
+</p>
+
+SOC-focused cyber security portfolio demonstrating hands-on investigation work, lab-based case studies, and practical security projects.
+
+---
 
 ## 👨‍💻 About Me
 
@@ -10,28 +16,34 @@ I’m transitioning into cyber security with a strong background in networking a
 I’ve been developing practical skills in alert triage, log analysis, incident investigation, and vulnerability assessment, focusing on understanding how attacks happen and how to respond to them properly.
 
 My long-term goal is to move into penetration testing, but I’m currently focused on gaining real-world experience in a SOC or Cyber Security Analyst role.
-SOC-focused cyber security portfolio demonstrating hands-on investigation work, lab-based case studies, and practical security projects.  
 
-**Certifications:**  
-![Security+](https://img.shields.io/badge/Security%2B-Completed-brightgreen)  
-![A+](https://img.shields.io/badge/A%2B-Completed-brightgreen)  
+---
+
+## 🎓 Certifications
+
+- CompTIA Security+ ✅  
+- CompTIA A+ ✅  
+- Network+ ⏳ (Scheduled)  
+- CEH ⚡ (In Progress)  
+
+---
 
 ## 🪖 Background & Transferable Skills
 
 - Military veteran with experience operating in structured, security-focused environments  
 - Strong decision-making under pressure and ability to follow defined processes and escalation paths  
-- Clear and effective communication in time-sensitive situations  
-- High attention to detail when working with security-critical systems and information  
+- Clear communication in time-sensitive situations  
+- High attention to detail when working with security-critical systems  
 
-- Experience running my own business, managing workload, priorities, and client expectations independently  
-- Strong sense of accountability, ownership, and responsibility for outcomes  
+- Experience running my own business, managing workload, priorities, and client expectations  
+- Strong accountability and ownership of outcomes  
 - Ability to manage multiple tasks while maintaining quality and consistency  
 
 ---
 
-👋 Overview
+## 👋 Overview
 
-This portfolio shows the hands-on work I’ve been doing to build practical SOC skills, including alert triage, incident investigation, vulnerability assessment, and threat analysis. It reflects how I approach identifying, investigating, and responding to security events in a structured and practical way.
+This portfolio shows the work I’ve been doing to build practical SOC skills, including alert triage, incident investigation, vulnerability assessment, and threat analysis. It reflects how I approach identifying, investigating, and responding to security events in a structured and practical way.
 
 ---
 
@@ -39,72 +51,68 @@ This portfolio shows the hands-on work I’ve been doing to build practical SOC 
 
 ### 🔍 SOC & Blue Team Projects
 
-[![Project 1 — SIEM Dashboard](assets/images/project1_siem_dashboard.png)](Projects/Project%201%20-%20SIEM%20Alert%20Investigation.md)  
 **Project 1 — [SIEM Alert Investigation](Projects/Project%201%20-%20SIEM%20Alert%20Investigation.md)**  
-Investigate and respond to simulated security alerts using SIEM-style workflows, including log analysis and alert triage.
+Investigate and respond to simulated security alerts using SIEM workflows, including log analysis and alert triage.
 
-[![Project 2 — Incident Response](assets/images/project2_incident_response.png)](Projects/Project%202%20-%20Incident%20Response%20Simulation.md)  
 **Project 2 — [Incident Response Simulation](Projects/Project%202%20-%20Incident%20Response%20Simulation.md)**  
-Structured investigation from detection through to containment and remediation, following incident response principles.
+Structured investigation from detection through to containment and remediation.
 
-[![Project 3 — Threat Hunting](assets/images/project3_threat_hunting.png)](Projects/Project%203%20-%20Threat%20Hunting%20Exercise.md)  
 **Project 3 — [Threat Hunting Exercise](Projects/Project%203%20-%20Threat%20Hunting%20Exercise.md)**  
-Identify anomalous behaviour and potential threats through log analysis and investigative techniques.
+Identify anomalous behaviour through log analysis and investigative techniques.
 
 ---
 
 ### 🛠️ Security Engineering & Hardening
 
-[![Project 4 — Vulnerability Assessment](assets/images/project4_vulnerability.png)](Projects/Project%204%20-%20Vulnerability%20Assessment.md)  
 **Project 4 — [Vulnerability Assessment](Projects/Project%204%20-%20Vulnerability%20Assessment.md)**  
 Identify, validate, and prioritise vulnerabilities based on risk and exposure.
 
-[![Project 5 — System Hardening](assets/images/project5_hardening.png)](Projects/Project%205%20-%20System%20Hardening.md)  
 **Project 5 — [System Hardening](Projects/Project%205%20-%20System%20Hardening.md)**  
-Apply security configurations and hardening techniques to reduce attack surface.
+Apply security configurations to reduce attack surface.
 
 ---
 
 ### ⚙️ Automation & Cloud Security
 
-[![Project 6 — PowerShell Script](assets/images/project6_powershell.gif)](Projects/Project%206%20-%20PowerShell%20Automation%20Script.md)  
 **Project 6 — [PowerShell Automation Script](Projects/Project%206%20-%20PowerShell%20Automation%20Script.md)**  
-Automate repetitive investigation and security-related tasks.
+Automate investigation and security-related tasks.
 
-[![Project 7 — Azure AD](assets/images/project7_azuread.png)](Projects/Project%207%20-%20Azure%20AD%20Security.md)  
 **Project 7 — [Azure AD Security](Projects/Project%207%20-%20Azure%20AD%20Security.md)**  
-Monitor and secure identity and access within a cloud environment.
+Monitor and secure identity and access in a cloud environment.
 
 ---
 
 ## 📊 Diagrams & Mapping
-- [MITRE ATT&CK Mapping](Diagrams/MITRE%20Mapping.md)
-- [Attack Flow Diagram](Diagrams/Attack%20Flow.md)
-- [SIEM Alert Flow](Diagrams/SIEM%20Flow.md)
-- [Incident Response Timeline](Diagrams/IR%20Timeline.md)
-- [Threat Hunting Logic](Diagrams/Threat%20Hunting%20Logic.md)
-- [Vulnerability Flow](Diagrams/Vulnerability%20Flow.md)
-- [System Hardening Flow](Diagrams/System%20Hardening%20Flow.md)
-- [Automation Flow](Diagrams/Automation%20Flow.md)
-- [Azure Hardening](Diagrams/Azure%20Hardening.md)
+
+[MITRE ATT&CK Mapping](Diagrams/MITRE%20Mapping.md)  
+[Attack Flow Diagram](Diagrams/Attack%20Flow.md)  
+[SIEM Alert Flow](Diagrams/SIEM%20Flow.md)  
+[Incident Response Timeline](Diagrams/IR%20Timeline.md)  
+[Threat Hunting Logic](Diagrams/Threat%20Hunting%20Logic.md)  
+[Vulnerability Flow](Diagrams/Vulnerability%20Flow.md)  
+[System Hardening Flow](Diagrams/System%20Hardening%20Flow.md)  
+[Automation Flow](Diagrams/Automation%20Flow.md)  
+[Azure Hardening](Diagrams/Azure%20Hardening.md)  
+
+---
 
 ## 🧪 Lab Environment
 
-To support my transition into cyber security, I built a virtual lab environment to simulate real-world SOC scenarios and investigation workflows.
+I built a virtual lab environment to simulate real-world SOC scenarios and workflows.
 
-This environment is used to practise identifying, analysing, and responding to security events, including:
+This is used to practise:
 
-- Investigating authentication anomalies and suspicious login activity  
-- Detecting and analysing brute force attempts  
-- Performing vulnerability scanning and validating findings  
-- Analysing network traffic to identify unusual behaviour  
-- Documenting incidents clearly for escalation and reporting  
+- Investigating authentication anomalies  
+- Detecting brute force attempts  
+- Performing vulnerability scanning and validation  
+- Analysing network traffic  
+- Documenting incidents for escalation  
 
 ---
 
 ## 🧪 Live Labs
 
-Hands-on labs covering network security, endpoint protection, cloud security, and threat detection, alongside custom scenarios I’ve built to simulate real SOC investigations and workflows.
+Hands-on labs covering network security, endpoint protection, cloud security, and threat detection, alongside custom scenarios I’ve built.
 
 [🚀 View Live Labs →](Live%20labs/README.md)
 
@@ -114,7 +122,7 @@ Hands-on labs covering network security, endpoint protection, cloud security, an
 
 Demonstrates applied capability across:
 
-- SIEM-based investigation (**Splunk exposure**)  
+- SIEM-based investigation (Splunk exposure)  
 - Incident response and log analysis  
 - Threat hunting aligned to MITRE ATT&CK  
 - Vulnerability assessment and system hardening  
@@ -124,15 +132,21 @@ Demonstrates applied capability across:
 
 ---
 
-### 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 Operating Systems: Windows, Linux  
 Security Tools: Wireshark, Nessus, Nmap  
 Scripting: PowerShell  
 SIEM: Splunk (in progress)  
-Cloud: Azure AD
+Cloud: Azure AD  
 
 ---
+
+## 🧠 Approach
+
+My focus is on understanding how attacks occur, how they are detected, how they are investigated, and how they are prevented.
+
+I use MITRE ATT&CK to support structured analysis, map attacker behaviour, and improve investigation quality.
 
 ## 🧠 Approach
 
