@@ -60,3 +60,36 @@ I then correlated related events to build a timeline of activity and assess whet
 ```spl
 index=auth_logs user="target_user"
 | stats count by src_ip, action
+```spl
+---
+
+MITRE ATT&CK Mapping
+T1110 — Brute Force
+Repeated failed authentication attempts used to guess valid credentials
+T1078 — Valid Accounts
+Successful login using compromised credentials
+Findings
+High volume of failed login attempts from a single source IP
+Successful authentication following repeated failures
+Login behaviour inconsistent with normal user activity
+Indicators of potential account compromise
+Response
+Flagged the activity as suspicious and high risk
+Recommended immediate account containment (reset credentials / disable account)
+Suggested blocking the identified source IP address
+Advised further review of account activity for potential lateral movement
+Outcome
+
+The activity was assessed as likely malicious, demonstrating characteristics of a brute-force attack leading to potential account compromise. Escalation was recommended for containment and further investigation.
+
+Skills Demonstrated
+SIEM alert triage and investigation
+SPL query development and log analysis
+Event correlation and timeline building
+Threat identification and risk assessment
+MITRE ATT&CK mapping
+Clear documentation for escalation
+Related Diagrams
+MITRE Mapping
+Attack Flow
+SIEM Flow
