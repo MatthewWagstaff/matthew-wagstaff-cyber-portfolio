@@ -1,11 +1,11 @@
-## 🧪 Hands‑On Labs Completed
+## 🧪 Hands-On Labs & Training
 
 ### 🔐 Security+ Live Labs (Completed)
 - Security Concept Fundamentals  
 - Cryptographic Solutions  
 - Threat Vectors and Attack Surfaces  
 - Identifying Security Vulnerabilities  
-- Analyze Malicious Activity  
+- Analyse Malicious Activity  
 - Mitigation Techniques  
 - Security Architecture Models  
 - Securing Enterprise Infrastructures  
@@ -36,6 +36,11 @@
 - Network Access and Management  
 - Network Security Concepts  
 - General Network Attacks  
+
+### 📊 SIEM & SOC Tooling (In Progress)
+- Splunk Enterprise Security training  
+- Participation in Splunk webinars and SOC-focused sessions  
+- Developing understanding of SIEM workflows, alert triage, and investigation processes  
 - Network Hardening Techniques  
 - Network Troubleshooting Tools and Techniques  
 
