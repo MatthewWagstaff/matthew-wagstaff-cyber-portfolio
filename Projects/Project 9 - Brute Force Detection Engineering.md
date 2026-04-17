@@ -111,7 +111,9 @@ Threat identification and investigation
 MITRE ATT&CK mapping
 Structured escalation thinking
 
---- ## Related Diagrams 
+---
+
+## Related Diagrams 
 
 - [MITRE Mapping](../Diagrams/MITRE%20Mapping.md)
 - [Attack Flow](../Diagrams/Attack%20Flow.md)
