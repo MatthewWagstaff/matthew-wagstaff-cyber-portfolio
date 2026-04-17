@@ -50,6 +50,7 @@ index=auth_logs
 | where failed_count > 5 AND success_count > 0
 ```
 
+---
 
 ## Investigation Process
 
@@ -66,25 +67,41 @@ whether the source appeared normal for the user
 
 This helped determine whether the activity looked like normal user error or an attack pattern requiring escalation.
 
+---
+
 MITRE ATT&CK Mapping
+
 T1110 — Brute Force
 Repeated failed login attempts used to guess valid credentials
 T1078 — Valid Accounts
 Successful use of credentials after repeated authentication failures
+
+---
+
 Findings
+
 Detection logic successfully identified suspicious authentication patterns
 Repeated failed logins followed by success created a clear high-risk pattern
 The activity demonstrated how a simple correlation rule can improve visibility of account compromise attempts
+
+---
+
 Response
+
 Recommended account review and credential reset
 Suggested monitoring or blocking of suspicious source IP addresses
 Advised further review for any related login or lateral movement activity
 Documented findings in an escalation-ready format
+
+---
+
 Outcome
 
 This project demonstrated how brute-force behaviour can be identified through detection engineering rather than waiting for a generic alert alone.
 
 It also showed the value of combining detection logic with analyst review, helping reduce false positives while improving visibility of suspicious authentication activity.
+
+---
 
 Skills Demonstrated
 Detection use case development
@@ -94,7 +111,8 @@ Threat identification and investigation
 MITRE ATT&CK mapping
 Structured escalation thinking
 
-Related Diagrams
-SIEM Flow
-Attack Flow
-MITRE Mapping
+--- ## Related Diagrams 
+
+- [MITRE Mapping](../Diagrams/MITRE%20Mapping.md)
+- [Attack Flow](../Diagrams/Attack%20Flow.md)
+- [SIEM Flow](../Diagrams/SIEM%20Flow.md)
