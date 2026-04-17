@@ -114,7 +114,7 @@ Hands-on labs covering network security, endpoint protection, cloud security, an
 
 Demonstrates applied capability across:
 
-- SIEM-style investigation (**Splunk exposure**)  
+- SIEM-based investigation (**Splunk exposure**)  
 - Incident response and log analysis  
 - Threat hunting aligned to MITRE ATT&CK  
 - Vulnerability assessment and system hardening  
