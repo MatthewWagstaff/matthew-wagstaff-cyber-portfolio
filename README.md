@@ -15,9 +15,9 @@ SOC-focused cyber security portfolio demonstrating hands-on investigation work, 
 
 ## 👋 Overview
 
-This portfolio showcases practical work aligned to real-world Security Operations Centre (SOC) activities, including alert triage, incident investigation, vulnerability assessment, and threat analysis.
+This portfolio shows the hands-on work I’ve been doing to build practical SOC skills, including alert triage, incident investigation, vulnerability assessment, and threat analysis.
 
-The focus is on demonstrating not just the tools used, but how security events are identified, analysed, and responded to.
+The focus is on understanding how security events happen, how to investigate them properly, and how to respond in a structured and clear way.
 
 ---
 
