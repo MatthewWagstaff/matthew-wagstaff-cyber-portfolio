@@ -42,5 +42,6 @@
 - Participation in Splunk webinars and SOC-focused sessions  
 - Developing understanding of SIEM workflows, alert triage, and investigation processes  
 - Network Hardening Techniques  
-- Network Troubleshooting Tools and Techniques  
+- Network Troubleshooting Tools and Techniques
+- Applying Splunk concepts within lab-based investigations
 
