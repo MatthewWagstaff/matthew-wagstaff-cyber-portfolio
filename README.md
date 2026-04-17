@@ -64,7 +64,7 @@ Monitor and secure identity and access within a cloud environment.
 ---
 
 ## 📊 Diagrams & Mapping
-- [MITRE ATT&CK Mapping](Diagrams/MITRE Mapping.md)
+- [MITRE ATT&CK Mapping](Diagrams/MITRE-Mapping.md)
 - [Attack Flow Diagram](Diagrams/Attack-Flow-Diagram.md)
 - [SIEM Alert Flow](Diagrams/SIEM-Alert-Flow.md)
 - [Incident Response Timeline](Diagrams/Incident-Response-Timeline.md)
