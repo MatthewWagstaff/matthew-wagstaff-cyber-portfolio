@@ -105,6 +105,9 @@ Monitor and secure identity and access in a cloud environment.
 **Project 8 — [Splunk Alert Investigation](Projects/Project%208%20-%20Splunk%20Alert%20Investigation.md)**  
 Investigate and analyse authentication-based alerts using Splunk, applying SIEM workflows and structured investigation.
 
+**Project 9 — [Brute Force Detection Engineering](Projects/Project%209%20-%20Brute%20Force%20Detection%20Engineering.md)**  
+Build and test a brute-force detection use case in Splunk using authentication patterns, correlation logic, and structured investigation.
+
 ---
 
 ## 📊 Diagrams & Mapping
