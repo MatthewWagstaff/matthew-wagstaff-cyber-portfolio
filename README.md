@@ -28,6 +28,27 @@ My long-term goal is to move into penetration testing, but I’m currently focus
 
 ---
 
+## 📊 SIEM & SOC Tooling (Splunk)
+
+Currently building practical SIEM capability using Splunk Enterprise 8.3 through structured training, labs, and workshops.
+
+**Core focus areas:**
+- Alert triage and investigation workflows  
+- SPL2 search queries and event analysis  
+- Dashboard creation and visualisation  
+- Detection engineering using Security Essentials and ESCU  
+- Threat hunting techniques aligned to MITRE ATT&CK  
+- Introduction to Enterprise Security (ES) and SOC operations  
+- Basic SOAR concepts and playbook awareness  
+
+**Additional exposure:**
+- Observability and monitoring (infrastructure, application, cloud)  
+- Data modelling, field extraction, and knowledge objects  
+- Reporting, alerting, and data enrichment  
+
+[📘 View full Splunk learning log →](Splunk/README.md)
+
+
 ## 🪖 Background & Transferable Skills
 
 - Military veteran with experience operating in structured, security-focused environments  
