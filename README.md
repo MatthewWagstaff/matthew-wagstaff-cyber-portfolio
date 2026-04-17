@@ -101,6 +101,9 @@ Automate investigation and security-related tasks.
 **Project 7 — [Azure AD Security](Projects/Project%207%20-%20Azure%20AD%20Security.md)**  
 Monitor and secure identity and access in a cloud environment.
 
+**Project 8 — [Splunk Alert Investigation](Projects/Project%208%20-%20Splunk%20Alert%20Investigation.md)**  
+Investigate and analyse authentication-based alerts using Splunk, applying SIEM workflows and structured incident investigation.
+
 ---
 
 ## 📊 Diagrams & Mapping
