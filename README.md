@@ -63,14 +63,17 @@ Monitor and secure identity and access within a cloud environment.
 
 ---
 
-### 📊 Diagrams & Mapping
+## 📊 Diagrams & Mapping
 
 [MITRE ATT&CK Mapping](Diagrams/MITRE-ATTACK-Mapping.md)  
 [Attack Flow Diagram](Diagrams/Attack-Flow-Diagram.md)  
 [SIEM Alert Flow](Diagrams/SIEM-Alert-Flow.md)  
 [Incident Response Timeline](Diagrams/Incident-Response-Timeline.md)  
-[Threat Hunting Logic](Diagrams/Threat-Hunting-Logic.md)
-
+[Threat Hunting Logic](Diagrams/Threat-Hunting-Logic.md)  
+[Vulnerability Flow](Diagrams/Vulnerability%20Flow.md)  
+[System Hardening Flow](Diagrams/System%20Hardening%20Flow.md)  
+[Automation Flow](Diagrams/Automation%20Flow.md)  
+[Azure Hardening](Diagrams/Azure%20Hardening.md)
 ---
 
 ## 🧪 Lab Environment
