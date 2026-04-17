@@ -34,7 +34,7 @@ Investigate and respond to simulated security alerts using SIEM-style workflows,
 Structured investigation from detection through to containment and remediation, following incident response principles.
 
 [![Project 3 — Threat Hunting](assets/images/project3_threat_hunting.png)](Projects/Project%203%20-%20Threat%20Hunting%20Exercise.md)  
-**Project 3 — [Threat Hunting Exercise](Projects/Project%203%20-%20Threat%20Hunting%20Exercise.md)**  
+**Project 3 — [Threat Hunting Logic](Projects/Project%203%20-%20Threat%20Hunting%20Exercise.md)**  
 Identify anomalous behaviour and potential threats through log analysis and investigative techniques.
 
 ---
