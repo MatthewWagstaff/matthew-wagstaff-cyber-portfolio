@@ -8,15 +8,15 @@ Wazuh, Sysmon, Event Viewer, MITRE ATT&CK
 
 ## Detection
 - Alert generated in Wazuh indicating suspicious PowerShell activity  
-- Initial triage identified encoded command execution  
+- Initial triage identified encoded PowerShell command execution  
 
 ## Analysis
-1. Reviewed Wazuh alert metadata to understand trigger conditions  
-2. Pulled Sysmon logs (Event ID 1 and 4104) to analyse process execution and script content  
-3. Identified Base64-encoded PowerShell command within logs  
-4. Decoded payload to determine intent  
-5. Observed outbound network communication to an external IP address  
-6. Assessed behaviour against known attack patterns  
+- Reviewed Wazuh alert details to understand what triggered the alert  
+- Pulled Sysmon logs (Event ID 1 and 4104) to analyse process execution and script content  
+- Identified Base64-encoded PowerShell command within logs  
+- Decoded payload to determine intent  
+- Observed outbound network communication to an external IP address  
+- Assessed behaviour against known attack patterns  
 
 ## MITRE ATT&CK Mapping
 - T1059.001 – Command and Scripting Interpreter: PowerShell  
@@ -30,12 +30,16 @@ Wazuh, Sysmon, Event Viewer, MITRE ATT&CK
 - Flagged activity as malicious and high-risk  
 - Recommended isolation of affected host  
 - Suggested blocking of identified IP address  
-- Documented findings for escalation and further investigation  
+- Documented findings clearly for escalation and further investigation  
 
 ## Outcome
 Activity assessed as likely malicious, demonstrating PowerShell-based execution and potential command-and-control behaviour. Escalation recommended for containment and remediation.
 
 ## Related Diagrams
-- [MITRE Mapping](../Diagrams/MITRE%20Mapping.md)
-- [Attack Flow](../Diagrams/Attack%20Flow.md)
-- [SIEM Flow](../Diagrams/SIEM%20Flow.md)
+- [MITRE Mapping](../Diagrams/MITRE%20Mapping.md)  
+- [Attack Flow](../Diagrams/Attack%20Flow.md)  
+- [SIEM Flow](../Diagrams/SIEM%20Flow.md)  
+
+
+
+
