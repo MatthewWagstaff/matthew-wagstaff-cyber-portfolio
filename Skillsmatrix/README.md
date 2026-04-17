@@ -45,7 +45,7 @@ This Skills Matrix highlights my practical cyber security capability across cert
 ## ⚡ Skills Progress / Confidence
 
 **Splunk**       ▇▇▇ 60%  
-**PowerShell**   ▇▇▇ 60% 
+**PowerShell**   ▇▇▇ 60%  
 **Azure AD**     ▇▇▇ 60%  
 **Networking**   ▇▇▇▇ 70%  
 **MITRE ATT&CK** ▇▇▇ 60%  
