@@ -60,8 +60,4 @@ I then correlated events across the timeframe to build a clear sequence of activ
 ```spl
 index=auth_logs user="target_user"
 | stats count by src_ip, action
-Clear documentation for escalation
-Related Diagrams
-MITRE Mapping
-Attack Flow
-SIEM Flow
+
