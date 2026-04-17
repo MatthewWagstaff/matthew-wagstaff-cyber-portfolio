@@ -1,6 +1,6 @@
 # 🧠 Matthew Wagstaff — Skills Matrix
 
-This Skills Matrix showcases my **knowledge, certifications, and hands-on abilities** in cyber security. It highlights what I’ve achieved with **Security+, A+, live labs, and my own projects**.
+This Skills Matrix highlights my practical cyber security capability across certifications, hands-on labs, and self-built SOC projects. It reflects the skills I’ve been developing in alert investigation, incident response, and vulnerability analysis.
 
 ---
 
@@ -15,34 +15,34 @@ This Skills Matrix showcases my **knowledge, certifications, and hands-on abilit
 
 ---
 
-## 🏫 Core Knowledge (from CompTIA Exams)
+## 🏫 Core Knowledge (from Study & Labs)
 
 | Domain | Skills / Knowledge |
 |--------|------------------|
 | Networking | TCP/IP, DNS, DHCP, Subnetting, VLANs, VPNs |
-| Hardware & OS | Windows & Linux fundamentals, OS troubleshooting, system components |
-| Security Concepts | CIA triad, authentication, access control, firewalls, malware types, social engineering |
-| Threats & Vulnerabilities | Malware, phishing, ransomware, vulnerabilities, patch management |
-| Risk & Compliance | Security policies, standards, NIST, ISO |
-| Cloud Basics | Basic Azure security concepts (applied in labs/projects) |
+| Systems | Windows & Linux fundamentals, system troubleshooting |
+| Security Fundamentals | Access control, authentication, firewalls, malware types, social engineering |
+| Threats & Vulnerabilities | Phishing, ransomware, exploitation methods, patching and remediation |
+| Risk & Compliance | Security policies, standards (NIST, ISO awareness) |
+| Cloud | Azure AD fundamentals, identity and access concepts |
 
 ---
 
-## 🧪 Hands-On / Labs Skills
+## 🧪 Hands-On Capability
 
-| Skill Area | Tools / Techniques |
-|------------|------------------|
-| SIEM Analysis | Splunk, log investigation, alert investigation |
-| Incident Response | Event analysis, log correlation, timeline creation, incident documentation |
-| Threat Hunting | MITRE ATT&CK mapping, hunting queries, anomaly detection |
-| Vulnerability Assessment | Scanning tools, CVSS scoring, remediation recommendations |
-| System Hardening | Group Policy, account hardening, patching, secure configuration |
-| Automation | PowerShell scripting for security automation |
-| Cloud Security | Azure AD monitoring, identity protection, access control policies |
+| Area | Tools / Techniques |
+|------|------------------|
+| SIEM Investigation | Splunk exposure, alert triage, log analysis |
+| Incident Response | Event correlation, timeline creation, structured documentation |
+| Threat Hunting | MITRE ATT&CK mapping, anomaly identification |
+| Vulnerability Management | Nessus-style scanning, CVSS prioritisation, validation |
+| System Hardening | Group Policy, access control, secure configuration |
+| Automation | PowerShell scripting for basic security tasks |
+| Cloud Security | Azure AD monitoring, identity protection, access policies |
 
 ---
 
-## ⚡ Skills Progress / Proficiency
+## ⚡ Skills Progress / Confidence
 
 **Splunk**       ▇▇▇▇▇ 100%  
 **PowerShell**   ▇▇▇▇▇ 100%  
@@ -54,10 +54,6 @@ This Skills Matrix showcases my **knowledge, certifications, and hands-on abilit
 
 ---
 
-## 📌 Notes
-
-- Skills are based on **real labs, simulations, and personal projects**.  
-- Certifications reflect current **completed and in-progress achievements**.  
-- This matrix is designed to give recruiters a clear **snapshot of capabilities and technical strengths**.
+---
 
 [⬅ Back to Main Portfolio](../README.md)
