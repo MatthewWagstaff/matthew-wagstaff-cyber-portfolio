@@ -16,7 +16,16 @@ SOC-focused cyber security portfolio demonstrating hands-on investigation work, 
 ![Security+](https://img.shields.io/badge/Security%2B-Completed-brightgreen)  
 ![A+](https://img.shields.io/badge/A%2B-Completed-brightgreen)  
 
-**Military Veteran**
+## 🪖 Background & Transferable Skills
+
+- Military veteran with experience operating in structured, security-focused environments  
+- Strong decision-making under pressure and ability to follow defined processes and escalation paths  
+- Clear and effective communication in time-sensitive situations  
+- High attention to detail when working with security-critical systems and information  
+
+- Experience running my own business, managing workload, priorities, and client expectations independently  
+- Strong sense of accountability, ownership, and responsibility for outcomes  
+- Ability to manage multiple tasks while maintaining quality and consistency  
 
 ---
 
