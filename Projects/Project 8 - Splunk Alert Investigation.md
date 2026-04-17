@@ -61,3 +61,56 @@ I then correlated events across the timeframe to build a clear sequence of activ
 index=auth_logs user="target_user"
 | stats count by src_ip, action
 
+```
+
+This query was used to group authentication activity by source IP and action, helping identify a high volume of failed login attempts followed by a successful login from the same source.
+
+---
+
+## MITRE ATT&CK Mapping
+
+- **T1110 — Brute Force**  
+- **T1078 — Valid Accounts**
+
+---
+
+## Findings
+
+- High number of failed login attempts from a single source IP  
+- Successful login immediately after failures  
+- Source IP not recognised as normal user activity  
+- Login timing outside expected behaviour  
+
+---
+
+## Response
+
+- Flagged as suspicious and high risk  
+- Recommended password reset / account lock  
+- Suggested blocking source IP  
+- Advised further investigation for lateral movement  
+
+---
+
+## Outcome
+
+Activity assessed as likely malicious, consistent with brute-force leading to account compromise.
+
+---
+
+## Skills Demonstrated
+
+- SIEM alert investigation  
+- SPL query usage  
+- Log analysis and correlation  
+- Threat identification  
+- MITRE ATT&CK mapping  
+- Incident documentation  
+
+---
+
+## Related Diagrams
+
+- [MITRE Mapping](../Diagrams/MITRE%20Mapping.md)  
+- [Attack Flow](../Diagrams/Attack%20Flow.md)  
+- [SIEM Flow](../Diagrams/SIEM%20Flow.md)  
