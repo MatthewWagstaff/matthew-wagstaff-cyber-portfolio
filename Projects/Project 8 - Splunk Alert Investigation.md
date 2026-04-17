@@ -53,6 +53,12 @@ Further analysis showed:
 
 I then correlated events to build a clear timeline of activity and confirm whether the behaviour aligned with normal user patterns.
 
+## Example SPL Query
+
+```spl
+index=auth_logs user="target_user"
+| stats count by src_ip, action
+
 ---
 
 ## MITRE ATT&CK Mapping
