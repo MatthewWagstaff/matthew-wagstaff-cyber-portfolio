@@ -5,13 +5,13 @@
   <img src="assets/Comptia-Aplus.png" width="100" alt="A+">
 </p>
 
-SOC-focused cyber security portfolio demonstrating hands-on investigation work, lab-based case studies, and practical security projects.
+SOC-focused cyber security portfolio demonstrating practical investigation capability, detection logic, and real-world security workflows.
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m transitioning into cyber security with a strong background in networking and hands-on experience built through my own SOC lab environment.
+I’m building towards getting into cyber security with a strong background in networking and hands-on experience built through my own SOC lab environment.
 
 I’ve been developing practical skills in alert triage, log analysis, incident investigation, and vulnerability assessment, focusing on understanding how attacks happen and how to respond to them properly.
 
@@ -30,7 +30,7 @@ My long-term goal is to move into penetration testing, but I’m currently focus
 
 ## 📊 SIEM & SOC Tooling (Splunk)
 
-Currently building practical SIEM capability using Splunk Enterprise 8.3 through structured training, labs, and workshops.
+Practical SIEM capability using Splunk Enterprise 8.3 through structured training, labs, and workshops.
 
 **Core focus areas:**
 - Alert triage and investigation workflows  
@@ -65,6 +65,7 @@ Currently building practical SIEM capability using Splunk Enterprise 8.3 through
 
 ## 👋 Overview
 
+I approach investigations using structured triage, correlation, and escalation workflows aligned to real SOC environments.
 This portfolio shows the work I’ve been doing to build practical SOC skills, including alert triage, incident investigation, vulnerability assessment, and threat analysis. It reflects how I approach identifying, investigating, and responding to security events in a structured and practical way.
 
 ---
