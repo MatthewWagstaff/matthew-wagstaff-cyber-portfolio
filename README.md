@@ -105,7 +105,7 @@ This environment is used to practise identifying, analysing, and responding to s
 
 ## 🧪 Live Labs
 
-Hands-on labs across network security, endpoint protection, cloud security, and threat detection, alongside custom lab scenarios I have designed and built.  
+Hands-on labs covering network security, endpoint protection, cloud security, and threat detection, alongside custom scenarios I’ve built to simulate real SOC investigations and workflows.
 
 [🚀 View Live Labs →](Live%20labs/README.md)
 
