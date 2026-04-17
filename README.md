@@ -3,6 +3,13 @@
 <p align="center">
 <img src="assets/Comptia-Securityplus.png" width="100"> <img src="assets/Comptia-Aplus.png" width="100">
 
+## 👨‍💻 About Me
+
+I’m transitioning into cyber security with a strong background in networking and hands-on experience built through my own SOC lab environment.
+
+I’ve been developing practical skills in alert triage, log analysis, incident investigation, and vulnerability assessment, focusing on understanding how attacks happen and how to respond to them properly.
+
+My long-term goal is to move into penetration testing, but I’m currently focused on gaining real-world experience in a SOC or Cyber Security Analyst role.
 SOC-focused cyber security portfolio demonstrating hands-on investigation work, lab-based case studies, and practical security projects.  
 
 **Certifications:**  
