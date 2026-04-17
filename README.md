@@ -48,6 +48,7 @@ Currently building practical SIEM capability using Splunk Enterprise 8.3 through
 
 [📘 View full Splunk learning log →](Splunk/README.md)
 
+---
 
 ## 🪖 Background & Transferable Skills
 
@@ -102,7 +103,7 @@ Automate investigation and security-related tasks.
 Monitor and secure identity and access in a cloud environment.
 
 **Project 8 — [Splunk Alert Investigation](Projects/Project%208%20-%20Splunk%20Alert%20Investigation.md)**  
-Investigate and analyse authentication-based alerts using Splunk, applying SIEM workflows and structured incident investigation.
+Investigate and analyse authentication-based alerts using Splunk, applying SIEM workflows and structured investigation.
 
 ---
 
@@ -171,9 +172,3 @@ Cloud: Azure AD
 My focus is on understanding how attacks occur, how they are detected, how they are investigated, and how they are prevented.
 
 I use MITRE ATT&CK to support structured analysis, map attacker behaviour, and improve investigation quality.
-
-## 🧠 Approach
-
-My focus is on understanding how attacks occur, how they are detected, how they are investigated, and how they are prevented.
-
-I use frameworks such as MITRE ATT&CK to support structured analysis, map attacker behaviour, and improve investigation quality.
