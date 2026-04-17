@@ -78,7 +78,7 @@ Monitor and secure identity and access within a cloud environment.
 
 To support my transition into cyber security, I built a virtual lab environment to simulate real-world SOC scenarios and investigation workflows.
 
-This environment is used to practise:
+This environment is used to practise identifying, analysing, and responding to security events, including:
 
 - Investigating authentication anomalies and suspicious login activity  
 - Detecting and analysing brute force attempts  
